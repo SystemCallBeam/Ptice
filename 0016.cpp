@@ -5,7 +5,7 @@ int main(){
     //ใส่ในนี้เลย
     string a = "AAAABBBBB",Adrian = "ABC",Bruno = "BABC",Goran = "CCAABB";
 
-    //cin >> t >> a; // input
+    cin >> t >> a; // input
 
     for(int i = 0;i < t;i++){
         cA = i%3;
